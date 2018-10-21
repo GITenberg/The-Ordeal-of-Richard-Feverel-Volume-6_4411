@@ -1,5 +1,5 @@
 _repo: The-Ordeal-of-Richard-Feverel-Volume-6_4411
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcsh 'English fiction -- 19th century'
 - !lcsh 'Domestic fiction'
 - !lcc 'PR'
+- GITenberg
 title: The Ordeal of Richard Feverel — Volume 6
 url: http://www.gutenberg.org/ebooks/4411
